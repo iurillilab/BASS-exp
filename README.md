@@ -1,6 +1,25 @@
 # BASS-exp
 Repository to run BASS (Behavioral Action Sequence Segmentation) on Moseq
 
+
+## Goal:
+
 ## How to Compile BASS:
 
-To compile the model you need to 
+
+## Terminology:
+
+### Model Building:
+
+
+
+
+
+
+
+
+
+
+## Basic Theory Behind the Model:
+
+
